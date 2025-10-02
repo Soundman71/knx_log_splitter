@@ -11,7 +11,7 @@ Das kleine Tool splittet die Eingangsdatei in 2 Dateielen auf:
 Die erzeugten Dateien kann man dann in der ETS in den Gruppenmonitor laden und einfacher analysieren.
 
 Bei mir laufen relative viele Energiemessewerte über den Bus, diese sind unter der GA 0/7/x erfasst.
-Diese filtere ich mir damit erst mal raus und schaue dann, in bestimmten Situationen los war. 
+Diese filtere ich mir damit erst mal raus und schaue dann, was in bestimmten Situationen los war. 
 Dafür reicht mir dann i.d.R die Filtermöglichkeit der ETS.
 
 Verwendet Python 3.12
